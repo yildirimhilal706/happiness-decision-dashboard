@@ -110,7 +110,6 @@ The app will open at `http://localhost:8501`.
 
 ## 📝 Articles
 
-- 📖 [Medium (English) — *coming soon*]()
 - 📖 [Medium (Türkçe) — Dünyanın en mutlu ülkesi Finlandiya değil, sana bağlı](https://medium.com/@hilalyldrmm2/d%C3%BCnyan%C4%B1n-en-mutlu-%C3%BClkesi-finlandiya-de%C4%9Fil-sana-ba%C4%9Fl%C4%B1-0b076fa07b7a)
 
 ## 👥 Contributors
